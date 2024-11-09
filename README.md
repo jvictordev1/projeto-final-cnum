@@ -6,7 +6,7 @@ Projeto final - Cálculo Numérico
 
 ## Descrição do projeto.
 
-Esse projeto consiste na criação de códigos para resolver questões reais (localizadas no arquivo **questoes.pdf**) que envolvem a manipulação de sistemas lineares utilizando métodos numéricos (diretos e iterativos). No total foram solucionadas 3 de 4 questões.
+Esse projeto consiste na criação de códigos para resolver questões reais (localizadas no arquivo **questoes.pdf**) que envolvem a manipulação de sistemas lineares utilizando métodos numéricos (diretos e iterativos). No total foram solucionadas 3 de 4 questões. O grupo foi composto por: José Victor, Andressa Luiza e Weslen Loula.
 
 ## Códigos e questões
 
@@ -14,7 +14,7 @@ Esse projeto consiste na criação de códigos para resolver questões reais (lo
 
 Nesse tópico explicitamos as questões e como executa-las.
 
-### Tópico 01 - questão 2
+### Tópico 01 - questão 2 - Andressa
 
 Para executar o código que resolve essa equação, devemos rodar os seguintes comandos:
 
@@ -23,7 +23,7 @@ pip install tkinter
 python3 c_num.py
 ```
 
-### Tópico 02 - questão 02
+### Tópico 02 - questão 02 - José Victor
 
 **IMPORTANTE**: não conseguimos obter os dados na questão para testar no código.
 
@@ -34,7 +34,7 @@ pip install numpy
 python3 gauss_siedel.py
 ```
 
-### Tópico 03 - questão 03
+### Tópico 03 - questão 03 - Weslen
 
 Para executar o código que resolve essa equação, devemos rodar os seguintes comandos:
 
@@ -43,7 +43,7 @@ pip install matplotlib numpy
 python3 minquad.py
 ```
 
-### Tópico 04 - questão 01
+### Tópico 04 - questão 01 - Weslen
 
 Para executar o código que resolve essa equação, devemos rodar os seguintes comandos:
 
